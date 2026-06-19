@@ -1,3 +1,3 @@
-a = 10
-b = 15
-print(a + b)
+nome = input('digite seu nome: ')
+if nome == 'isa':
+    print('seja bem vinda', nome)
