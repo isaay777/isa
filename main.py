@@ -1,3 +1,3 @@
-senha=input('digite a senha: ')
-if senha == "5550815" :
-    print('acesso liberado')
+a = 10
+b = 15
+print(a + b)
