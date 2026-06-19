@@ -1,1 +1,1 @@
-print('ola mundo')
+nome = input('qual seu nome: ')
